@@ -8,7 +8,6 @@ import Cards from "./Components/Cards";
 import Footer from "./Components/Footer";
 import LocomotiveScroll from 'locomotive-scroll';
 
-const age = 34;
 
 const App = () => {
 const locomotiveScroll = new LocomotiveScroll();
